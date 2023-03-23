@@ -38,6 +38,3 @@ print(string[0:4])
 print(string[5:17])
 print(string[18:21])
 print(string[5:25])
-
-print("gatau yaallah aku pusing mau bobo")
-print("smgt yaaahhh remed up")
